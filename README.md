@@ -6,6 +6,7 @@
 * Piyush Mishra(2401010293)
 * Ankit Kumar(2401010246)
 * Muskan(2401010239)
+  Group Supervisor: Dr.Manish Kumar
 
 ## Project Description
 
@@ -21,13 +22,12 @@ Inspirobot-X is an autonomous ground-based robotic system designed for real-time
 * C++
 * OpenCV
 * ROS (Robot Operating System)
+* Machine Learning
 * Arduino
 * Sensor Integrations
-* **Air Quality Sensor (e.g., MQ-135):** Monitors pollutants like CO2 and other harmful gases.
-* **Chassis & Wheels:** Durable and terrain-friendly mobility.
-* **Temperature Sensor (e.g., DHT22):** Detects heat levels.
-* **Smoke Sensor (e.g., MQ-2):** Detects smoke and carbon dioxide levels.
-* **Microcontroller (e.g., Arduino or Raspberry Pi):** Central control unit for all sensors.
+* Air Quality Sensor (e.g., MQ-135)
+* Temperature Sensor (e.g., DHT22)
+* Smoke Sensor (e.g., MQ-2)
 
 ## Steps to Run/Execute the Project
 
