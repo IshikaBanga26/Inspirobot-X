@@ -14,7 +14,7 @@ Inspirobot-X is an autonomous ground-based robotic system designed for real-time
 
 ## Link to Video Explanation
 
-
+https://github.com/IshikaBanga26/Inspirobot-X/releases/download/project_video.mp4/project_video.mp4
 
 ## Technologies Used
 
